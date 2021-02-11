@@ -1,0 +1,27 @@
+completion_text: |-
+  <p>lorem ipsum</p>
+description: |-
+  lorem ipsum
+next_flow_id: ''
+next_flow_title: ''
+pages:
+- content: |-
+    <p>lorem ipsum</p>
+  id: intro
+  title: Inicio
+  type: Page
+- content: |-
+    <p>lorem ipsum</p><hr><p><br></p>
+  id: page58
+  title: "Nociones b\xE1sicas, or\xEDgenes y coaching"
+  type: Page
+rules:
+  access:
+  - if_has_role:
+    - ta
+    - student
+    - instructor
+    permissions:
+    - view
+  grade_identifier: null
+title: flujo de prueba
