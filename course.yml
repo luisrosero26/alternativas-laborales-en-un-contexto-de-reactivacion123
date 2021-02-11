@@ -1,0 +1,14 @@
+chunks:
+- content: ''
+  flows:
+  - flow_id: flow26
+    next_flow: null
+    pages:
+    - flow_id: page58
+      title: "Nociones b\xE1sicas, or\xEDgenes y coaching"
+    title: flujo de prueba
+    title_next_flow: ''
+  id: welcome
+  introduction: Charla
+  rules: []
+  title: "ALTERNATIVAS LABORALES EN UN CONTEXTO DE REACTIVACI\xD3N"
